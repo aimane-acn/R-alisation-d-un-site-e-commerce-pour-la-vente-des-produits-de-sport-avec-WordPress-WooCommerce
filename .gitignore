@@ -1,0 +1,9 @@
+# Exclure les fichiers sensibles
+wp-config.php
+
+# Exclure les médias uploadés
+wp-content/uploads/
+
+# Exclure les fichiers système
+.DS_Store
+Thumbs.db
